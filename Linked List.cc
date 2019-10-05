@@ -1,3 +1,7 @@
+/*
+    * Linked list generates random numbers and finds their mean, meadian, mode etc..
+*/
+
 #include <stdio.h>
 #include <malloc.h>
 #include <stdlib.h>
